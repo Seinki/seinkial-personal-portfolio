@@ -1,0 +1,20 @@
+{
+  "main": {
+    "name": {
+      "first": "Seinki",
+      "middle": "Anna",
+      "last": "Lesmana",
+      "fullName": "Seinki Anna Lesmana"
+    },
+    "phone": "+62 8957 0774 9900",
+    "email": "seinkiannalesmana00@gmail.com",
+    "address": {
+      "village": "Cicaheum",
+      "district": "Kiaracondong",
+      "city": "Kota Bandung",
+      "province": "Jawa Barat",
+      "country": "Indonesia",
+      "fullAddress": "Cicaheum, Kiaracondong, Kota Bandung, Jawa Barat, Indonesia"
+    }
+  }
+}
